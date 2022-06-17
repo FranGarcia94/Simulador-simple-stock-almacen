@@ -1,4 +1,4 @@
-//Programa para cualquier empresa con un almac�n en el cu�l se desee facilitar el trabajo de b�squeda, inserci�n y retirada de los productos que maneje.
+//Programa para simular un almacén en el cuál se desee facilitar el trabajo de búsqueda, inserción y retirada de los productos que maneje.
 
 #include<stdio.h>
 #include<string.h>
@@ -95,7 +95,7 @@ void inicializar(tipo_1 almacen[M][O][O]){
 	}
 }
 
-void cambio(char palabra[N]){ // Para quitar el salto de l�nea al final de un string
+void cambio(char palabra[N]){ // Para quitar el salto de línea al final de un string
 	int i;
 	for(i=0;i<N;i++){
 		if(palabra[i]=='\n'){
