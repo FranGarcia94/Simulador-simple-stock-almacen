@@ -1,1 +1,1 @@
-# Simulador-simple-stock-almac-n
+# Simulador-simple-stock-almacén
