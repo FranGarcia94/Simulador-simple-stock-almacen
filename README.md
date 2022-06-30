@@ -33,3 +33,5 @@ Programa sencillo cuyo funcionamiento se basa en la introducción o retirada de 
 ![insertar](./img_store/store_4_1.jpg)
 
 ### (5) Listar productos
+![insertar](./img_store/store_5.jpg)
+
